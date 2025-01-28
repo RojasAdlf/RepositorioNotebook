@@ -16,6 +16,9 @@ public class Clase1{
 
         System.out.println("Esto lo editamos en gitHUB");
 
+        System.out.println("Esto lo editamos en git");
+
+        System.out.println("Esto lo editamos en git");
 
 
     }
