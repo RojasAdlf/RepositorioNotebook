@@ -1,26 +1,14 @@
 public class Clase1{
 
     public static void main(String[] args) {
-    
-        System.out.println("Primer commit   :)");
-
-        System.out.println("Editado desde segunda rama");
 
         Clase1 miOperacion = new Clase1();
 
-        miOperacion.suma(55,  125);
+        System.out.println("El resultado de la multiplicacion es :" +  miOperacion.multiplicacion(55, 125); 
+
+        System.out.println("El resultado de la suma es :" +  miOperacion.suma(55,  125); 
 
         System.out.println("Esto lo editamos en gitHUB");
-
-        System.out.println("Esto lo editamos en gitHUB");
-
-        System.out.println("Esto lo editamos en gitHUB");
-
-        System.out.println("Esto lo editamos en git");
-
-        System.out.println("Esto lo editamos en git");
-
-        System.out.println("System of a down from git");
 
     }
 
