@@ -4,7 +4,7 @@ public class multiplicacionDeDosNum{
 
     multiplicacionDeDosNum miMultiplicacion = new multiplicacionDeDosNum();
 
-    System.out.println(miMultiplicacion.multiplicacion(55, 12);
+    System.out.println(miMultiplicacion.multiplicacion(55, 12));
 
   }
   public int multiplicacion(int numero1, int numero2){
@@ -13,4 +13,5 @@ public class multiplicacionDeDosNum{
 
     return resultado;
     
+  } 
 }

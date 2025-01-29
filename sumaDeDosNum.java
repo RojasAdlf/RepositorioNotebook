@@ -2,9 +2,9 @@ public class sumaDeDosNum{
   
 public static void main(String args[]){
 
-  sumaDeDosNum miSuma = nwew sumaDeDosNum();
+  sumaDeDosNum miSuma = new sumaDeDosNum();
 
-  System.out.println(miSuma.suma(55, 125);
+  System.out.println(miSuma.suma(55, 125));
   
   }
   //Desde rama 2 vamos a hacer una suma de 2 numeros
@@ -14,4 +14,5 @@ public static void main(String args[]){
 
    return resultado;
   
+  }
 }

@@ -4,7 +4,7 @@ public class divisionDeDosNumeros{
 
     divisionDeDosNumeros miDivision = new divisionDeDosNumeros();
 
-    System.out.println(miDivision.division(500,5);
+    System.out.println(miDivision.division(500,5));
 
   }
 
@@ -13,4 +13,5 @@ public class divisionDeDosNumeros{
     int resultado = numero1/numero2;
 
     return resultado;
+  }
 }
